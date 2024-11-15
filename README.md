@@ -100,7 +100,3 @@ Contributions to this repository are welcome. To suggest improvements or add con
 ## License
 
 This repository is licensed under the MIT License. Refer to the `LICENSE` file for details.
-
---- 
-
-Feel free to replace `your_username` and `your_repository` with the actual details of your repository!
