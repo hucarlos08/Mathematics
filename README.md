@@ -1,7 +1,3 @@
-Here’s the full text you can copy and paste directly into your README:
-
----
-
 # Mathematics
 
 This repository contains educational materials and lessons designed for the Mathematics course in the Geomatics specialization program at CentroGeo. It covers a range of topics, from fundamental concepts to advanced topics like derivatives, linear regression, optimization, and probability.
